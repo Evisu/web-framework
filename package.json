@@ -1,0 +1,9 @@
+{
+  "name": "web-framework",
+  "scripts": {
+    "dev": "nuxt"
+  },
+  "dependencies": {
+    "nuxt": "^2.9.1"
+  }
+}
